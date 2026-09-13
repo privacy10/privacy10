@@ -14,7 +14,9 @@ I'm a **Data Security Specialist** dedicated to protecting sensitive information
 
 ### 🌟 Featured Projects
 - Coming soon...
-
+[🎩]
+[🫆]
+[✓] *click to find out*
 ### 🚀 What I'm Working On
 - Building secure infrastructure for government agencies
 - Developing privacy-first solutions
