@@ -4,19 +4,32 @@
 
 ## Welcome to My GitHub Profile
 
-I'm passionate about building amazing projects and contributing to open source.
+I'm a **Data Security Specialist** dedicated to protecting sensitive information and supporting government agencies with robust, compliant security solutions.
+
+### 🔒 Focus Areas
+- **Data Privacy & Protection** — Implementing best practices for sensitive data handling
+- **Government Compliance** — FISMA, NIST, FedRAMP, and regulatory standards
+- **Security Architecture** — Designing resilient systems for high-security environments
+- **Access Control & Authentication** — Secure identity and authorization frameworks
 
 ### 🌟 Featured Projects
 - Coming soon...
 
 ### 🚀 What I'm Working On
-- Exploring new technologies
-- Building cool stuff
-- Learning and growing
+- Building secure infrastructure for government agencies
+- Developing privacy-first solutions
+- Advancing data protection technologies
+- Collaborating on compliance-driven projects
 
-### 💬 Let's Connect
-Feel free to reach out and collaborate!
+### 🤝 Let's Connect
+If you're working on data security, government initiatives, or privacy-critical projects, I'd love to collaborate.
+
+**Areas of Expertise:**
+- Federal security standards (NIST, FISMA, FedRAMP)
+- Data classification and handling
+- Zero-trust security architectures
+- Cloud security in government environments
 
 ---
 
-*Thanks for visiting my profile!*
+*Building secure systems for a safer digital future.*
